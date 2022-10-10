@@ -1,2 +1,2 @@
 # Blanchard-Email
-mailing to email
+mailing by e-mail
